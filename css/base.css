@@ -7,18 +7,18 @@
 :root {
 	font-size: 16px;
 	--color-text: #c27e73;
-	--color-bg: #9292d6;
+	--color-bg: #0a0a27;
 	--color-link: #a8dbe0;
 	--color-link-hover: #fff;
 	--color-title: #99dde2;
 	--color-title-alt: #e2d2c3;
 	--color-border: rgb(91 91 91 / 44%);
-	--color-menu-item: #393634;
+	--color-menu-item: #887d76;
 	--color-menu-item-alt: #e0d2c4;
 	--color-menu-item-hover: #efafa5;
 	--color-menu-item-desc: #f1f1f1;
 	--color-desc-cont: #e2d2c3;
-	--color-desc: #656569;
+	--color-desc: #74747c;
 }
 
 html, body {
